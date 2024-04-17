@@ -1,6 +1,6 @@
 # aws-docker-with-terraform
 
-![image]()
+![image](https://github.com/AhmetBasari/aws-ec2-docker-compose-with-terraform/blob/main/aws-terraform-docker.png)
 
 
 you can create with this code
